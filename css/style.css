@@ -4,3 +4,7 @@
     border-radius: calc(.25rem - 1px);
     width:auto;
 }
+.slide-img{
+    height:60%;
+    width:auto;
+}
